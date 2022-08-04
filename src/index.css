@@ -55,7 +55,7 @@ a {
   max-width: 125px;
   width: 100%;
   height: 169px;
-
+  image-rendering: pixelated;
   border-radius: 5px;
 }
 
