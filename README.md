@@ -1,6 +1,6 @@
 # Travel Journal
 
-Project initialised using Create-React-App
+Project initialized using Create-React-App
 
 Travel Journal made in React
 
